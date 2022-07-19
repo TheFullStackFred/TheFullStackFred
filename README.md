@@ -37,7 +37,10 @@
 [linkedin]: https://www.linkedin.com/in/fredrik-str%C3%B6mberg-5803671a9
 
 ![Freds's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFullStackFred&show_icons=true&theme=chartreuse-dark)
+
 ![Freds's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheFullStackFred&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFullStackFred&theme=chartreuse-dark)](https://github.com/TheFullStackFred/github-readme-stats)
 
 <p align="center">
   <img
