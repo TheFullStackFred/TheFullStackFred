@@ -1,7 +1,6 @@
 [![Fred's GitHub Banner](./assets/banner.png)]()
 
- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
-
+ <img align="right" justify="bottom" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 - 🧑‍🎓 I’m a JavaScript developer student at It-Högskolan in Gothenburg, Sweden
 - 💻 I’m currently learning about React
@@ -13,6 +12,7 @@
 ### Connect with me:
 
 [![Profile - LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=%230A66C2&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/fredrik-str%C3%B6mberg-5803671a9/)
+
 <br />
 
 ---
