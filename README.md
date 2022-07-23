@@ -17,6 +17,17 @@
 
 ---
 
+### My projects:
+
+[Vanilla JS project about Mario kart](https://thefullstackfred.github.io/VanillaJS-super-mario/index.html)
+
+[Vue3 JS project about beers](https://thefullstackfred.github.io/#/)
+
+[React JS project about countrys](https://thefullstackfred.github.io/react-lab-1/#/)
+
+
+<br />
+
 ### Languages and Tools:
 <div align="center">
 
