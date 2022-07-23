@@ -16,7 +16,6 @@
 <br />
 
 ---
-
 ### My projects:
 
 [Vanilla JS project about Mario kart](https://thefullstackfred.github.io/VanillaJS-super-mario/index.html)
@@ -25,8 +24,9 @@
 
 [React JS project about countrys](https://thefullstackfred.github.io/react-country-app/#/)
 
-
 <br />
+
+---
 
 ### Languages and Tools:
 <div align="center">
@@ -61,8 +61,7 @@
 <br />
 
 ---
-
-[linkedin]: https://www.linkedin.com/in/fredrik-str%C3%B6mberg-5803671a9
+### Stats:
 
 ![Freds's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFullStackFred&show_icons=true&theme=chartreuse-dark)
 
