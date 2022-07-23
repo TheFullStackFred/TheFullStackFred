@@ -23,7 +23,7 @@
 
 [Vue3 JS project about beers](https://thefullstackfred.github.io/#/)
 
-[React JS project about countrys](https://thefullstackfred.github.io/react-lab-1/#/)
+[React JS project about countrys](https://thefullstackfred.github.io/react-country-app/#/)
 
 
 <br />
