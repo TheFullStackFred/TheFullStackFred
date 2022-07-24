@@ -24,7 +24,7 @@
 
 [React JS project about countrys](https://thefullstackfred.github.io/react-country-app/#/)
 
-[Random answer app built with React as a part of a instructor guided course ](https://thefullstackfred.github.io/react-country-app/#/)
+[Random answer app built with React as a part of a instructor guided course ](http://yielding-giants.surge.sh/)
 
 <br />
 
