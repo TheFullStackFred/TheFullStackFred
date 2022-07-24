@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheFullStackFred&label=Profile%20views&color=0e75b6&style=flat" alt="TheFullStackFred" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheFullStackFred&label=Profile%20views&color=chartreuse" alt="TheFullStackFred" /> </p>
 
 [![Fred's GitHub Banner](./assets/banner.png)]()
 
