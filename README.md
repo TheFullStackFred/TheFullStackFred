@@ -18,15 +18,25 @@
 <br />
 
 ---
-### My projects:
 
-[Vanilla JS project about Mario kart](https://thefullstackfred.github.io/VanillaJS-super-mario/index.html)
+### Portfolio :briefcase:
 
-[Vue3 JS project about beers](https://thefullstackfred.github.io/#/)
+| Repo                          | Description                                     | Application              |
+| ----------------------------- | ----------------------------------------------- | ------------------------ |
+| [Native JavaScript][nativejs] | Project using api for Mario kart                | [Mario Kart App][mariokart]|
+| [Vue3][vuejs3]                | Project about beers built with vue3 and vite    | [Beer App][beerapp]       |
+| [React][react]                | Project about countrys                          | [Country App][countryapp] |
+| [React][react1]               | Project that gives a random answer              | [Random answer App][randomanswer] |
 
-[React JS project about countrys](https://thefullstackfred.github.io/react-country-app/#/)
+[mariokart]: https://thefullstackfred.github.io/VanillaJS-super-mario/index.html
+[beerapp]: https://thefullstackfred.github.io/#/
+[countryapp]: https://thefullstackfred.github.io/react-country-app/#/
+[randomanswer]: http://yielding-giants.surge.sh/
 
-[Random answer app built with React as a part of a instructor guided course ](http://yielding-giants.surge.sh/)
+[nativejs]: https://github.com/TheFullStackFred/VanillaJS-super-mario
+[vuejs3]: https://github.com/TheFullStackFred/Vue-3-Js-project
+[react]: https://github.com/TheFullStackFred/react-country-app
+[react1]: https://github.com/TheFullStackFred/random-answers
 
 <br />
 
