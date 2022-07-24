@@ -81,7 +81,7 @@
 
 ![Freds's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheFullStackFred&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFullStackFred&theme=chartreuse-dark)](https://github.com/TheFullStackFred/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefullstackfred&theme=chartreuse-dark)](https://github.com/TheFullStackFred/github-readme-stats)
 
 <p align="center">
   <img
