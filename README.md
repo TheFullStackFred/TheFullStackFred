@@ -77,7 +77,7 @@
 ---
 ### Stats:
 
-![Freds's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredrikStrömberg&show_icons=true&theme=chartreuse-dark)
+![Freds's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefullstackfred&show_icons=true&theme=chartreuse-dark)
 
 ![Freds's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheFullStackFred&theme=chartreuse-dark)
 
