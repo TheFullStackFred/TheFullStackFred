@@ -83,14 +83,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFullStackFred&theme=chartreuse-dark)](https://github.com/TheFullStackFred/github-readme-stats)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheFullStackFred&show_icons=true&locale=en&layout=compact" alt="TheFullStackFred" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheFullStackFred&show_icons=true&locale=en" alt="TheFullStackFred" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheFullStackFred&" alt="TheFullStackFred" /></p>
-
-
 <p align="center">
   <img
     width="400"
