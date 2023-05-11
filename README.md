@@ -4,7 +4,7 @@ Hello devs👋 <br>I'm a System developer at Mobility Guard Ab.<br> I have a pas
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fredrik-str%C3%B6mberg-5803671a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fredrikstrombergdev/)
 
 # 💻 Tech Stack:
 
