@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello devs👋 <br>I'm a System developer at Mobility Guard Ab.<br> I have a passion for learning and exploring new technologies, and I'm always eager to expand my knowledge in the field. Aside from tech, I love to spend my free time diving, traveling, and riding my motorbike. It's great to connect with other developers who share similar interests!
+Hello devs👋 <br>I'm a System developer at Mobility Guard AB.<br> I have a passion for learning and exploring new technologies, and I'm always eager to expand my knowledge in the field. Aside from tech, I love to spend my free time diving, traveling, and riding my motorbike. It's great to connect with other developers who share similar interests!
 
 ## 🌐 Socials:
 
